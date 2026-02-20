@@ -1,14 +1,15 @@
 # BSceneLauncher
 
 ## **In Project:**
-![1](https://github.com/user-attachments/assets/8d89967d-c980-447e-bdb4-6a69f4d0b14b)
-![2](https://github.com/user-attachments/assets/b7351d2e-01fe-4991-88db-5efd38b601f4)
+<img width="523" height="376" alt="image_2025-10-21_07-32-48" src="https://github.com/user-attachments/assets/8d89967d-c980-447e-bdb4-6a69f4d0b14b" />
+<img width="523" height="376" alt="image_2025-10-21_07-32-48" src="https://github.com/user-attachments/assets/b7351d2e-01fe-4991-88db-5efd38b601f4" />
+
 
 ## **You can drag panel and put inside upper panel:**
-![3](https://github.com/user-attachments/assets/dae88211-7180-4bdd-b2df-298b2c5c50ba)
+<img width="523" height="376" alt="image_2025-10-21_07-32-48" src="https://github.com/user-attachments/assets/dae88211-7180-4bdd-b2df-298b2c5c50ba" />
 
-( ͡° ͜ʖ ͡°)
 
 ## **Contacts:**
 
 Discord: @BagStrider
+( ͡° ͜ʖ ͡°)
