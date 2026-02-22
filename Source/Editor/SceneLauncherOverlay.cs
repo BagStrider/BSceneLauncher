@@ -5,7 +5,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
 
-namespace BSceneLauncher.Source.Editor
+namespace Plugins.BSceneLauncher.Source.Editor
 {
     [Overlay(typeof(SceneView), "Scene Launcher")]
     public class SceneLauncherOverlay : Overlay
