@@ -1,5 +1,5 @@
 # BSceneLauncher
-[Download Package](https://github.com/BagStrider/BSceneLauncher/releases/tag/untagged-02090fa97e6853dbea5c)
+[Download Package](https://github.com/BagStrider/BSceneLauncher/releases/tag/v2.0.0)
 
 ## **In Project:**
 <img width="523" height="376" alt="image_2025-10-21_07-32-48" src="https://github.com/user-attachments/assets/8d89967d-c980-447e-bdb4-6a69f4d0b14b" />
